@@ -40,4 +40,10 @@ JavaScript · TypeScript · Python · Ruby · Go · Java · PHP · C# · Rust ·
 - Mock mode testing
 - Usage alerts
 
+<!-- DIGEST:START -->
+## This week from the blog
+
+*Weekly updates appear here. [Browse the IBYOK blog →](https://www.ibyok.com/blog)*
+<!-- DIGEST:END -->
+
 [Get started on the GitHub Marketplace →](https://github.com/marketplace/ibyok)
