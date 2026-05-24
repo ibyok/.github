@@ -43,15 +43,15 @@ JavaScript · TypeScript · Python · Ruby · Go · Java · PHP · C# · Rust ·
 <!-- DIGEST:START -->
 ## This week from the blog
 
-Highlights from May 10 – May 16, 2026 — 7 new posts on the IBYOK blog:
+Highlights from May 17 – May 23, 2026 — 7 new posts on the IBYOK blog:
 
-- [Mastering Secure Architecture Patterns for API Key Management](https://www.ibyok.com/blog/mastering-secure-architecture-patterns-for-api-key-management) — Discover how centralized key vaults, environment separation, and effective use of access tokens can enhance API security.
-- [Navigating LLM Development: Best Practices for Efficient and Secure Shipping](https://www.ibyok.com/blog/navigating-llm-development-best-practices-for-efficient-and-secure-shipping) — Discover effective strategies for safe and cost-efficient LLM development, including mock mode usage, cost-safe testing, and managing multiple providers.
-- [Navigating API Key Security in a Multi-Provider Environment](https://www.ibyok.com/blog/navigating-api-key-security-in-a-multi-provider-environment) — Effectively managing API keys across OpenAI, Anthropic, and Google requires understanding their handling differences and implementing robust security practices.
-- [Mastering Team Governance: Effective Access Controls and Auditability](https://www.ibyok.com/blog/mastering-team-governance-effective-access-controls-and-auditability) — Explore how startups can implement robust access controls and ensure auditability, fostering a SOC2 mindset and securing API keys effectively.
-- [Navigating the Labyrinth: Key Management Tooling for API Security](https://www.ibyok.com/blog/navigating-the-labyrinth-key-management-tooling-for-api-security) — Explore the maze of key management solutions, balancing internal tools and managed solutions to optimize workflow and security.
-- [Navigating LLM Security: Key Management vs. Secrets Management](https://www.ibyok.com/blog/navigating-llm-security-key-management-vs-secrets-management) — Understanding the nuances between API key management and secrets management is essential for safeguarding your LLM development.
-- [Avoiding the Pitfalls: Lessons from API Key Failures in Production](https://www.ibyok.com/blog/avoiding-the-pitfalls-lessons-from-api-key-failures-in-production) — Explore real-world API key failures and learn how to prevent costly mistakes in production environments.
+- [Building a Robust Key Management Strategy with Secure Architecture Patterns](https://www.ibyok.com/blog/building-a-robust-key-management-strategy-with-secure-architecture-patterns) — Discover how centralized key vaults, environment separation, and CI/CD safe patterns can enhance your API security strategy.
+- [Mastering LLM Development: Best Practices for Safe and Efficient Shipping](https://www.ibyok.com/blog/mastering-llm-development-best-practices-for-safe-and-efficient-shipping) — Explore best practices in LLM development, focusing on mock mode strategies, cost-safe testing, rate limits, and managing multiple API providers.
+- [Navigating Multi-Provider Realities: Secure API Key Management Across OpenAI, Anthropic, and Google](https://www.ibyok.com/blog/navigating-multi-provider-realities-secure-api-key-management-across-openai-anth) — Discover how to effectively manage API keys across multiple providers like OpenAI, Anthropic, and Google, while avoiding common pitfalls.
+- [Navigating Compliance & Governance in Scaling Startups](https://www.ibyok.com/blog/navigating-compliance-governance-in-scaling-startups) — Explore strategies for implementing strong compliance and governance frameworks in scaling startups, ensuring security and efficiency as your team grows.
+- [Navigating the Key Management Maze: Tooling and Best Practices](https://www.ibyok.com/blog/navigating-the-key-management-maze-tooling-and-best-practices) — Discover the trade-offs between internal tooling and managed solutions for key management, and optimize your workflow with actionable insights.
+- [API Key Management for LLM Security: Navigating Risks and Best Practices](https://www.ibyok.com/blog/api-key-management-for-llm-security-navigating-risks-and-best-practices) — Learn the intricacies of API key management for LLMs, identify common mistakes, and explore effective strategies to enhance your application's security.
+- [The Perils of API Key Mismanagement and How to Avoid Them](https://www.ibyok.com/blog/the-perils-of-api-key-mismanagement-and-how-to-avoid-them) — Explore real-world lessons from API key mismanagement failures and learn strategies to prevent leaks, misuse, and costly mistakes.
 
 [Read more on ibyok.com →](https://www.ibyok.com/blog)
 
